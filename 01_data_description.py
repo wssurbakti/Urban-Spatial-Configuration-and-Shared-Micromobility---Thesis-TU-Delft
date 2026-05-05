@@ -36,7 +36,7 @@ OVERVIEW
   Zone type          : {cells['zone'].unique()[0]} (all cells are H3 resolution 9)
 """)
 
-print("COLUMN DESCRIPTIONS")
+print("COLUMN DESCRIPTIONS!")
 col_desc = {
     "h3_index":       ("str",     "Unique H3 hexagon identifier"),
     "city":           ("str",     "City name (bologna, valencia, toulouse, bern, bratislava)"),
